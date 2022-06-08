@@ -1,0 +1,136 @@
+[08-Jun-2022 13:29:15 UTC] PHP Warning:  include(main.php): failed to open stream: No such file or directory in /home/goldozcv/public_html/admin/index.php on line 9
+[08-Jun-2022 13:29:15 UTC] PHP Warning:  include(): Failed opening 'main.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goldozcv/public_html/admin/index.php on line 9
+[08-Jun-2022 13:29:30 UTC] PHP Warning:  include(main.php): failed to open stream: No such file or directory in /home/goldozcv/public_html/admin/index.php on line 9
+[08-Jun-2022 13:29:30 UTC] PHP Warning:  include(): Failed opening 'main.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goldozcv/public_html/admin/index.php on line 9
+[08-Jun-2022 13:29:36 UTC] PHP Warning:  include(main.php): failed to open stream: No such file or directory in /home/goldozcv/public_html/admin/index.php on line 9
+[08-Jun-2022 13:29:36 UTC] PHP Warning:  include(): Failed opening 'main.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goldozcv/public_html/admin/index.php on line 9
+[08-Jun-2022 13:43:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/goldozcv/public_html/admin/duzenle.php on line 20
+[08-Jun-2022 13:43:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/duzenle.php on line 21
+[08-Jun-2022 13:43:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/duzenle.php on line 23
+[08-Jun-2022 13:43:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/goldozcv/public_html/admin/duzenle.php on line 20
+[08-Jun-2022 13:43:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/duzenle.php on line 21
+[08-Jun-2022 13:43:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/duzenle.php on line 23
+[08-Jun-2022 13:43:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/goldozcv/public_html/admin/duzenle.php on line 20
+[08-Jun-2022 13:43:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/duzenle.php on line 21
+[08-Jun-2022 13:43:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/duzenle.php on line 23
+[08-Jun-2022 13:58:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/goldozcv/public_html/admin/index.php on line 35
+[08-Jun-2022 13:58:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/goldozcv/public_html/admin/index.php on line 35
+[08-Jun-2022 13:58:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/goldozcv/public_html/admin/index.php on line 35
+[08-Jun-2022 14:07:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:07:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:08:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/goldozcv/public_html/admin/index.php on line 11
+[08-Jun-2022 14:08:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/index.php on line 12
+[08-Jun-2022 14:08:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/index.php on line 14
+[08-Jun-2022 14:08:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:08:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:08:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:08:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:08:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:08:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:09:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/goldozcv/public_html/admin/index.php on line 11
+[08-Jun-2022 14:09:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/index.php on line 12
+[08-Jun-2022 14:09:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/index.php on line 14
+[08-Jun-2022 14:09:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:09:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:09:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:09:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:09:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'verkauf'@'localhost' (using password: YES) in /home/goldozcv/public_html/admin/index.php on line 39
+[08-Jun-2022 14:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/goldozcv/public_html/admin/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/goldozcv/public_html/admin/index.php on line 45
+[08-Jun-2022 14:10:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/goldozcv/public_html/admin/index.php on line 11
+[08-Jun-2022 14:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/index.php on line 12
+[08-Jun-2022 14:10:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/goldozcv/public_html/admin/index.php on line 14
+[08-Jun-2022 14:56:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/goldozcv/public_html/admin/duzenleprocess.php on line 12
+[08-Jun-2022 14:57:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/goldozcv/public_html/admin/duzenleprocess.php on line 12
+[08-Jun-2022 14:59:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/goldozcv/public_html/admin/duzenleprocess.php on line 14
+[08-Jun-2022 15:01:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/goldozcv/public_html/admin/duzenleprocess.php on line 14
+[08-Jun-2022 15:58:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/goldozcv/public_html/admin/index.php on line 34
+[08-Jun-2022 15:58:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/goldozcv/public_html/admin/index.php on line 34
+[08-Jun-2022 15:58:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/goldozcv/public_html/admin/index.php on line 34
+[08-Jun-2022 15:58:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/goldozcv/public_html/admin/index.php on line 34
+[08-Jun-2022 16:44:56 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/goldozcv/public_html/admin/urunekle.php on line 13
+[08-Jun-2022 16:47:34 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/goldozcv/public_html/admin/urunekle.php on line 18
+[08-Jun-2022 16:48:36 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/goldozcv/public_html/admin/urunekle.php on line 18
+[08-Jun-2022 16:48:45 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/goldozcv/public_html/admin/urunekle.php on line 18
+[08-Jun-2022 16:49:08 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/goldozcv/public_html/admin/urunekle.php on line 18
+[08-Jun-2022 16:49:09 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/goldozcv/public_html/admin/urunekle.php on line 18
